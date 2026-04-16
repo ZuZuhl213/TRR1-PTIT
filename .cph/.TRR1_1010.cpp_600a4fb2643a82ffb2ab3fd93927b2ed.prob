@@ -1,1 +1,1 @@
-{"name":"Local: TRR1_1010","url":"/home/hoang/TRR1/TRR1-PTIT/TRR1_1010.cpp","tests":[{"id":1776369278756,"input":"5.0 7.5 1.3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hoang/TRR1/TRR1-PTIT/TRR1_1010.cpp","group":"local","local":true}
+{"name":"Local: TRR1_1010","url":"/home/hoang/TRR1/TRR1-PTIT/TRR1_1010.cpp","tests":[{"id":1776369278756,"input":"0 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hoang/TRR1/TRR1-PTIT/TRR1_1010.cpp","group":"local","local":true}

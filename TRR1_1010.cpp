@@ -9,7 +9,9 @@ int main() {
 	bool hasPositiveRoot = false;
 
 	if (a == 0) {
-		if (b != 0) {
+		if (b == 0) {
+			hasPositiveRoot = (c == 0);
+		} else {
 			double x = -c / b;
 			hasPositiveRoot = (x > 0);
 		}
